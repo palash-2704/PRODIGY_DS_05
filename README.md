@@ -1,5 +1,4 @@
-# PRODIGY_DS_05
-![image](https://github.com/user-attachments/assets/ffefb03c-8220-46f6-82fc-e2dfbb35057f)
+
 
 
 # Road Traffic Accident Data Analysis
